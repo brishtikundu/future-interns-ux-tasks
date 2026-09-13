@@ -6,13 +6,13 @@ This repository contains the UI/UX design tasks I completed as part of the **Fut
 
 ## 📁 Tasks
 
-### [task-1](./task-1)
+### [Task 1](./task-1)
 UI/UX design task focused on landing page layout, structure, and visual consistency.
 
-### [task-2](./task-2)
+### [Task 2](./task-2)
 Second design task — refined layout and interaction design based on given requirements.
 
-### [task-3](./task-3)
+### [Task 3](./task-3)
 Third design task — advanced layout with an emphasis on usability and visual polish.
 
 ---
