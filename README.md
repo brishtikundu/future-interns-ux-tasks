@@ -2,7 +2,8 @@
 
 This repository contains the UI/UX design tasks I completed as part of the **Future Interns** program. Each task focuses on a different aspect of interface design — from layout structure to interaction and visual polish.
 
----
+## Technologies
+HTML, CSS, Figma, UI/UX Design
 
 ## 📁 Tasks
 
